@@ -4,8 +4,9 @@ import RSCDemo from "@/components/RSCDemo";
 export default function Home() {
   return (
     <main>
-      <ClientDemo />
-      <RSCDemo />
+      <ClientDemo>
+        <RSCDemo />
+      </ClientDemo>
     </main>
   );
 }
