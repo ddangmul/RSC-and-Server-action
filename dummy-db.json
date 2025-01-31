@@ -1,6 +1,1 @@
-[
-  { "id": "u1", "name": "Max Schwarzmüller", "title": "Instructor" },
-  { "id": "u2", "name": "Manuel Lorenz", "title": "Instructor" },
-  { "id": "1716462045600", "name": "Max", "title": "Founder" },
-  { "id": "1716462309377", "name": "Max", "title": "Founder, again" }
-]
+[{"id":"u1","name":"Max Schwarzmüller","title":"Instructor"},{"id":"u2","name":"Manuel Lorenz","title":"Instructor"},{"id":"1716462045600","name":"Max","title":"Founder"},{"id":"1716462309377","name":"Max","title":"Founder, again"},{"id":"1738302224810","name":"Max","title":"Founder"},{"id":"1738302290957","name":"test","title":"test"},{"id":"1738302763308","name":"testtest","title":"test"}]
